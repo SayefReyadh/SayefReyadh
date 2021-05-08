@@ -5,4 +5,4 @@ Previously I have worked as a Lecturer in the Department of Computer Science and
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=sayefreyadh&label=Profile%20views&color=brightgreen&style=plastic"> </p>
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=sayefreyadh&show_icons=true&include_all_commits=true&locale=en"/></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api?username=sayefreyadh&show_icons=true&locale=en"/></p>
