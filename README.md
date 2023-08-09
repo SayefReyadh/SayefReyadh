@@ -9,15 +9,17 @@
 
 ### _WHOAMI_
 
-Hello again, you can call me Sayef, a serverless superhero with a passion for developing backend solutions that are efficient, scalable, and reliable. You could call me the Backend Batman, or maybe the AWS Avenger, either way, I'm here to save the day!
+👋 Hello again! You can call me Sayef, a serverless advocate🦸‍♂️ with a passion for developing backend solutions that are efficient, scalable, and reliable. You could call me the Backend Batman 🦇, or maybe the AWS Avenger 🌩️—either way, I'm here to save the day! (Pun intended 😅)
 
-With over 3+ years of professional experience. I specialize in serverless backend development using Typescript, Python, and all things AWS Serverless Compute Services (Lambda, Fargate, etc.) might have to offer. While I can whip up a React 18 web app and style it with Tailwind CSS, I prefer to focus on what really gets my gears turning, optimizing system performance to make everything run like a well-oiled machine.
+With over 3+ years of hybrid professional experience, I specialize in serverless backend development using Typescript, Node, and all things AWS Serverless Compute Services (Lambda, Fargate, etc.) might have to offer.
 
-I'm always on the lookout for the latest and greatest in technology and best practices, so you can count on me to stay up to date on all the serverless trends. When I'm not developing world-class backend solutions, you can find me writing technical blogs or contributing to open-source projects like sharp, serverless/examples, and nvm-windows. And, if that's not enough, I even create tutorials in Bangla at Sayef Reyadh - Programming Made Simple, because sharing is caring.
+Although I possess the ability to proficiently develop a React web application and apply styling using Tailwind CSS, my true passion and area of expertise lie in crafting and developing robust, efficient, and scalable backend solutions using AWS services, empowering businesses to thrive in the digital landscape.
 
-In my past life, I was a Lecturer at Daffodil International University, teaching the next generation of computer science and engineering students about data structures, algorithms, and object-oriented programming. I learned the importance of understanding, empathizing, and having patience with my audience, a skill that has helped me create better workflows for customers/users in my current roles.
+I'm always on the lookout for the latest and greatest in technology and best practices, so you can count on me to stay up to date on all the serverless trends. When I'm not developing, you can find me writing technical blogs or contributing to open-source projects like sharp, serverless/examples, and nvm-windows. And, if that's not enough, I even create tutorials in Bangla at Sayef Reyadh - Programming Made Simple, because sharing is caring. 📚🤝
 
-But now, I'm here at Craftsmen, ready to take on any challenge that comes my way. So, if you're looking for a serverless superhero to join your team, don't hesitate to reach out. I'm ready to save the day, one efficient, scalable, and reliable backend solution at a time!
+In my past life, I was a Lecturer at Daffodil International University, teaching the next generation of computer science and engineering students. I learned the importance of understanding, empathizing, and having patience with my audience, a skill that has helped me create better workflows for customers/users in my current roles.
+
+But now, I'm here at Craftsmen, ready to take on any challenge that comes my way. Let's build greatness together! 💪🚀
 
 ### _BLOGS_
 
