@@ -19,8 +19,6 @@ I'm always on the lookout for the latest and greatest in technology and best pra
 
 In my past life, I was a Lecturer at Daffodil International University, teaching the next generation of computer science and engineering students. I learned the importance of understanding, empathizing, and having patience with my audience, a skill that has helped me create better workflows for customers/users in my current roles.
 
-But now, I'm here at Craftsmen, ready to take on any challenge that comes my way. Let's build greatness together! 💪🚀
-
 ### _BLOGS_
 
 - [Managing dependency on external modules in a seamless way](https://craftsmenltd.com/blog/2022/09/06/managing-dependency-on-external-modules-in-a-seamless-way/)
