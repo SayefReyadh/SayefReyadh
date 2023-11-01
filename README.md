@@ -9,15 +9,11 @@
 
 ### _WHOAMI_
 
-👋 Hello again! You can call me Sayef, a serverless advocate🦸‍♂️ with a passion for developing backend solutions that are efficient, scalable, and reliable. You could call me the Backend Batman 🦇, or maybe the AWS Avenger 🌩️—either way, I'm here to save the day! (Pun intended 😅)
+👋 Hello again! You can call me Sayef, a serverless advocate🦸‍♂️ with a passion for developing backend solutions that are efficient 💪, scalable 📈, and reliable 🤝. 
 
-With over 3+ years of hybrid professional experience, I specialize in serverless backend development using Typescript, Node, and all things AWS Serverless Compute Services (Lambda, Fargate, etc.) might have to offer.
+With over 4+ years of hybrid professional experience, I specialize in Serverless Backend development using Python/Typescript, and all things Cloud Serverless Compute Services might have to offer.
 
-Although I possess the ability to proficiently develop a React web application and apply styling using Tailwind CSS, my true passion and area of expertise lie in crafting and developing robust, efficient, and scalable backend solutions using AWS services, empowering businesses to thrive in the digital landscape.
-
-I'm always on the lookout for the latest and greatest in technology and best practices, so you can count on me to stay up to date on all the serverless trends. When I'm not developing, you can find me writing technical blogs or contributing to open-source projects like sharp, serverless/examples, and nvm-windows. And, if that's not enough, I even create tutorials in Bangla at Sayef Reyadh - Programming Made Simple, because sharing is caring. 📚🤝
-
-In my past life, I was a Lecturer at Daffodil International University, teaching the next generation of computer science and engineering students. I learned the importance of understanding, empathizing, and having patience with my audience, a skill that has helped me create better workflows for customers/users in my current roles.
+Although I possess the ability to proficiently develop a Web application and apply styling, my true passion and area of expertise lie in crafting and developing robust, efficient, and scalable backend solutions using GCP/AWS services, empowering businesses to thrive in the digital landscape.
 
 ### _BLOGS_
 
