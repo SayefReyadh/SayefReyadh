@@ -11,17 +11,17 @@
 
 👋 Hello again! You can call me Sayef, a serverless advocate🦸‍♂️ with a passion for developing backend solutions that are efficient 💪, scalable 📈, and reliable 🤝. 
 
-With over 4+ years of hybrid professional experience, I specialize in Serverless Backend development using Python/Typescript, and all things Cloud Serverless Compute Services might have to offer.
+With nearly half a decade of hybrid professional experience, I specialize in Serverless Backend development using Python/Typescript, and all things Cloud Serverless Compute Services might have to offer.
 
 Although I possess the ability to proficiently develop a Web application and apply styling, my true passion and area of expertise lie in crafting and developing robust, efficient, and scalable backend solutions using GCP/AWS services, empowering businesses to thrive in the digital landscape.
 
 ### _BLOGS_
 
-- [Managing dependency on external modules in a seamless way](https://craftsmenltd.com/blog/2022/09/06/managing-dependency-on-external-modules-in-a-seamless-way/)
-- [Improving cost and efficiency by using AWS Lambda’s cache](https://craftsmenltd.com/blog/2022/07/15/improving-cost-and-efficiency-by-using-aws-lambda-cache/)
-- [Configure Serverless Offline + AWS Simple Queue Service (SQS)](https://craftsmenltd.com/blog/2022/10/17/configure-serverless-offline-aws-sqs/)
-- [Configure your React + Vite Application for Tailwind CSS](https://craftsmenltd.com/blog/2022/07/18/configure-your-react-vite-application-for-tailwind-css/)
-- [An approach for working with legacy API and new API](https://craftsmenltd.com/blog/2022/06/14/an-approach-for-working-with-legacy-api-and-new-api/)
+- [Managing dependency on external modules in a seamless way](https://www.craftsmensoftware.com/managing-dependency-on-external-modules-in-a-seamless-way/)
+- [Improving cost and efficiency by using AWS Lambda’s cache](https://www.craftsmensoftware.com/improving-cost-and-efficiency-by-using-aws-lambdas-cache/)
+- [Configure Serverless Offline + AWS Simple Queue Service (SQS)](https://www.craftsmensoftware.com/configure-serverless-offline-aws-simple-queue-servicesqs-2/)
+- [Configure your React + Vite Application for Tailwind CSS](https://www.craftsmensoftware.com/configure-your-react-vite-application-for-tailwind-css/)
+- [An approach for working with legacy API and new API](https://www.craftsmensoftware.com/an-approach-for-working-with-legacy-api-and-new-api/)
 
 ### _PUBLICATIONS_
 
