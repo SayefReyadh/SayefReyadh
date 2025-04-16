@@ -4,14 +4,14 @@
 [![Facebook: SayefReyadh](https://img.shields.io/badge/-SayefReyadh-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/A.SayefReyadh/)](https://www.facebook.com/A.SayefReyadh/)
 
 <h2>Hi, I'm Abdus Sayef Reyadh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> <img id="preview" src="https://komarev.com/ghpvc/?username=sayefreyadh&color=red"></h2>
-<p><em>Software Engineer II at <a href="https://optimizely.com/">Optimizely</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Senior Software Engineer at <a href="https://optimizely.com/">Optimizely</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 ### _WHOAMI_
 
 👋 Hello again! You can call me Sayef, a serverless advocate🦸‍♂️ with a passion for developing backend solutions that are efficient 💪, scalable 📈, and reliable 🤝. 
 
-With nearly half a decade of hybrid professional experience, I specialize in Serverless Backend development using Python/Typescript, and all things Cloud Serverless Compute Services might have to offer.
+With more than 5 years of professional experience, I specialize in Serverless Backend development using Python/Typescript, and all things Cloud Serverless Compute Services might have to offer.
 
 Although I possess the ability to proficiently develop a Web application and apply styling, my true passion and area of expertise lie in crafting and developing robust, efficient, and scalable backend solutions using GCP/AWS services, empowering businesses to thrive in the digital landscape.
 
